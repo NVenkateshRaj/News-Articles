@@ -15,11 +15,11 @@ class AppColor {
   static const Color green = Color(0xFF14AE5C);
   static const Color error = Color(0xFFAC0103);
   static const Color breadcrumbColor = Color(0xFFF97316);
-  static const Color dashboardBackgroundColor = Color(0xFFFFE6D2);
+  static const Color dashboardBackgroundColor = Color(0xFFF5F5F5);
   static const Color dashboardTextColor = Color(0xFFFF9541);
   static const Color dashboardIconColor = Color(0xFFE56600);
   static const Color dashboardBoxTextColor = Color(0xFF904101);
-  static const Color dashboardContainerTextColor = Color(0xFF6C6C6C);
+  static const Color dashboardContainerTextColor = Color(0xFFEEEEEE);
   static const Color dashboardContainerNameColor = Color(0xFF313131);
   static const Color dashboardApplicantIdBgColor = Color(0xFFFAFAFA);
   static const Color dashboardBoxBgColor = Color(0xFFFFF4EA);
